@@ -1,2 +1,4 @@
 rootProject.name = 'Anton_Bury_C34_onl'
+include 'lesson1'
+include 'lesson2'
 
