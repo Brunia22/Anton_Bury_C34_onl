@@ -1,2 +1,4 @@
 .idea/
 .gradle/
+!**/src/main/**/build/
+/lesson2/build/
